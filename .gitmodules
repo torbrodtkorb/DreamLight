@@ -1,0 +1,3 @@
+[submodule "altium-lib"]
+	path = altium-lib
+	url = https://github.com/bjornbrodtkorb/altium-lib.git
